@@ -24,6 +24,8 @@ public class DetailsFragment extends Fragment {
     private TextView dataText;
     private Button btnDelete;
 
+    //chakerim :D
+
     public DetailsFragment() {
         // Required empty public constructor
     }
