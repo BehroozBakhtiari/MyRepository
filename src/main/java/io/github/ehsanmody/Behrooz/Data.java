@@ -1,5 +1,5 @@
 package io.github.ehsanmody.maktab4ver2;
-//Comment
+
 import java.util.Date;
 import java.util.UUID;
 
